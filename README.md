@@ -15,7 +15,7 @@ An official manual for CLOS is planned in its next stage, so this README will on
 CLOS uses two types of versioning:
 
 + **Version**: These are official releases, denoted as 'v`X.Y.Z`.'
-+ **Builds**: These are testing stages, like a "dev" phase. This is denoted as 'b`X.Y.Z`.' These are going to be a thousand times more common, as versions is far away from now.
++ **Builds**: These are testing stages, like a "dev" phase. This is denoted as 'b`X.Y.Z`.' These are going to be a thousand times more common, as versions are far away from now.
 
 Both follow the X.Y.Z formatting, where:
 
