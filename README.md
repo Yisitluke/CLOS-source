@@ -27,6 +27,8 @@ Be note that versions wont be present for a while, so builds will be expected.
 
 The current version as of now is `b0.0.1`.
 
-Everything in the files are created by me (Yisitluke).
+---
+
+Everything in the file is created by me (Yisitluke).
 
 Have fun!
