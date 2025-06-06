@@ -29,6 +29,6 @@ The current version as of now is `b0.0.1`.
 
 ---
 
-Everything in the file is created by me (Yisitluke).
+Everything in the product is created by me (Yisitluke).
 
 Have fun!
