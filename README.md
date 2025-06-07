@@ -10,6 +10,10 @@ However, please **do not modify the Author information from the files**, as it i
 
 ---
 
+The only requirements for this project is atleast Python 3.12.
+
+---
+
 An official manual for CLOS is planned in its next stage, so this README will only tell about how versioning works so you know what to expect.
 
 CLOS uses two types of versioning:
