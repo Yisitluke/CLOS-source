@@ -47,7 +47,7 @@ cls && python CLOS.py
 ```
 (use `Clear-Host` for PowerShell, and `cls` for Command Prompt.)
 
-The script will automatically create a `system` directory required for the system. Ensure all of the scripts have read and write permissions, so it can read user data and create the system directory.
+The script will automatically create a `system` directory required for the system. Ensure all of the scripts have read and write permissions, so it can read file data and create the system directory.
 
 Now, you will be presented with this in the terminal:
 
