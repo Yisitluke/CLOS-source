@@ -4,6 +4,7 @@
 
 + Added splash-screen on boot
 + Application support
++ Cat (view) file content
 
 ---
 
