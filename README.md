@@ -11,7 +11,3 @@ However, please **do not modify the Author information from the files**, as it i
 ---
 
 The only requirements for this project is atleast Python 3.12.
-
----
-
-For more information, see the [CLOS Manual](./CLOS-Manual.md).
